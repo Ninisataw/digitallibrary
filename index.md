@@ -14,7 +14,7 @@ Berikut adalah Koleksi yang dimiliki:
 8. [Matahari](ebook/MatahariTereliye.pdf) - Tere liye (2016)
 9. [Linimasa](ebook/Linimasa.pdf) - @kisahhorror (2013)
 10. [Bumi](ebook/Bumi-Tereliye.pdf) - Tere liye (2014)
-11. [Resume Dr.Tengku](ebook/IkrimahQoirunNisa_157_ResumeDr.Tengku.pdf) - Ikrimah Qoirun Nisa (13040123140157)
+11. [Resume_VR](ebook/Resume_VR.pdf) - Ikrimah Qoirun Nisa (13040123140157)
 
 ---
 
