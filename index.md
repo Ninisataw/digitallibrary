@@ -5,17 +5,17 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 
-1. [pidi-baiq-dilan-1](pidi-baiq-dilan-1.pdf)-Pidi Baiq (2014)
-2. Contoh buku lain
-3. [Yang fana adalah waktu](Yangfanaadalahwaktu.pdf)-Sapardi djoko damono (2018)
-4. [Tere liye - tentang kamu](Tereliye-tentangkamu.pdf)-Tere liye (2016)
-5. [Tere liye - bulan](Tereliye-bulan.pdf)-Tere liye (2015)
-6. [Misteri Rumah Terkutuk](MisteriRumahTerkutuk.pdf)-Melyanda Ulan Dari (2023)
-7. [Misteri Penunggu Pohon Tua](MisteriPenungguPohonTua.pdf)-Aldo Sinatra (2015)
-8. [Matahari - Tere liye](Matahari-Tereliye.pdf)-Tere liye (2016)
-9. [Linimasa](Linimasa.pdf)-@kisahhorror (2013)
-10. [Bumi - Tere liye](Bumi-Tereliye.pdf)-Tere liye (2014)
-11. [Ikrimah Qoirun Nisa_157_Resume Dr.Tengku](IkrimahQoirunNisa_157_ResumeDr.Tengku.pdf)-Ikrimah Qoirun Nisa (2025)
+1.[pidi-baiq-dilan-1](ebook/pidi-baiq-dilan-1.pdf)-Pidi Baiq (2014)
+2,Yang fana adalah waktu, Sapardi djoko damono,2018,PDF,Yang fana adalah waktu
+3,Tentang kamu,Tere liye,2016,PDF,Tere liye - tentang kamu
+4,Bulan,Tere liye,2015,PDF,Tere Liye - Bulan
+5,Misteri Rumah Terkutuk,Melyanda Ulan Dari,2023,PDF,Misteri Rumah Terkutuk
+6,Misteri Penunggu Pohon Tua,Aldo Sinatra,2015,PDF,Misteri Penunggu Pohon Tua
+7,Matahari,Tere liye,2016,PDF,Matahari - Tere liye
+8,Linimasa,@kisahhorror,2013,PDF,Linimasa
+9,Bumi,Tere liye,2014,PDF,Bumi - Tere liye
+10,Pada Senja Yang Membawamu Pergi,Boy Candra,2016,PDF,Boy Candra - Pada Senja yg membawamu pergi
+11,Resume Dr.Tengku,Ikrimah Qoirun Nisa,2025,PDF,Ikrimah Qoirun Nisa_157_Resume Dr.Tengku
 
 ---
 
