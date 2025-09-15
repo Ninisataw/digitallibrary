@@ -5,7 +5,6 @@ Selamat Datang di Perpustakaan Digital
 Berikut adalah Koleksi yang dimiliki:
 ## Koleksi
 
-1.[Bulan - Tere Liye](ebook/TereLiye-Bulan.pdf) - Tere Liye (2015)
-2. [Bumi](ebook/Bumi-TereLiye.pdf) - Tere Liye (2014)
+1. . [dilan](ebook/pidi-baiq-dilan-1.pdf) - Pidi Baiq (2019)
 
 ---
