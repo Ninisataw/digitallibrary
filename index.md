@@ -6,7 +6,7 @@ Berikut adalah Koleksi yang dimiliki:
 ## Koleksi
 
 1. [dilan](ebook/pidi-baiq-dilan-1.pdf) - Pidi Baiq (2019)
-2. [Yang fana adalah waktu](ebook/Yangfanaadalahwaktu.pdf) - Sapardi djoko damono (2018)
+2. [Boy Candra](ebook/Yangfanaadalahwaktu.pdf) - Sapardi djoko damono (2018)
 4. [tentang kamu](ebook/Tereliye-tentangkamu.pdf) - Tere liye (2016)
 5. [bulan](ebook/Tereliye-bulan.pdf) - Tere liye (2015)
 6. [Misteri Rumah Terkutuk](ebook/MisteriRumahTerkutuk.pdf) - Melyanda Ulan Dari,dkk (2023)
