@@ -17,5 +17,6 @@ Berikut adalah Koleksi yang dimiliki:
 11. [Resume_VR](ebook/Resume_VR.pdf) - Ikrimah Qoirun Nisa (13040123140157)
 
 ---
+<a href="webti/halaman1.html">Halaman 1</a>
 
 *Powered by GitHub Pages*
